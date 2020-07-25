@@ -1,0 +1,24 @@
+{
+  "group": "emerald_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "1": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "emerald_sword:emerald_sword",
+    "count": 1
+  }
+}

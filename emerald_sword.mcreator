@@ -1,0 +1,59 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword"
+    },
+    {
+      "name": "EmeraldSwordRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword_recipe"
+    },
+    {
+      "name": "Tortoise",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tortoise"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "entity.emerald_sword.tortoise": "Tortoise",
+      "item.emerald_sword.emerald_sword": "Emerald Sword",
+      "item.emerald_sword.tortoise": "Tortoise Spawn Egg"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "emerald_sword",
+    "modName": "Emerald Sword",
+    "version": "1.0.0",
+    "author": "minec, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.emeraldsword",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
